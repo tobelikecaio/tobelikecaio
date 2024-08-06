@@ -22,5 +22,6 @@ Sou entusiastas e amante do mundo tecnológico.
 
 ### 🕵️ Contato
 <div>
+  <a href="https://www.linkedin.com/in/caio-vin%C3%ADcius-pessoa-gomes-82b164224)/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:tobelikecaio#@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
