@@ -1,7 +1,5 @@
 ## 👋 Olá, me chamo Caio Vinícius!
 
-Sou entusiastas e amante do mundo tecnológico.
-
 - 🎓- Graduado em Tecnologia da Informação (TI) - UFERSA, Campus Pau dos Ferros - RN;
 - 🎓- Graduando em Engenharia de Software - UFERSA, Campus Pau dos Ferros - RN;
 
