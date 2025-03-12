@@ -14,6 +14,7 @@
   <img align="center" alt="Java" height="30" width="40" src="https://icongr.am/devicon/java-original-wordmark.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor">
   <img align="center" alt="Postgree" height="30" width="40" src="https://icongr.am/devicon/postgresql-original-wordmark.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://icongr.am/devicon/postgresql-original-wordmark.svg](https://icongr.am/devicon/python-original.svg?size=128&color=currentColor">
 </div>
 
 ----
