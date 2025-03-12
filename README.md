@@ -1,11 +1,12 @@
 ## 👋 Olá, me chamo Caio Vinícius!
 
+- 🎓- Ensino Médio - IFRN, Campus Pau dos Ferros - RN;
 - 🎓- Graduado em Tecnologia da Informação (TI) - UFERSA, Campus Pau dos Ferros - RN;
 - 🎓- Graduando em Engenharia de Software - UFERSA, Campus Pau dos Ferros - RN;
 
 ----
 
-### 🛠 Conhecimentos
+#### 🛠 Conhecimentos
 <div>
   <img align="center" alt="HTML" height="30" width="40" src="https://icongr.am/devicon/html5-original-wordmark.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://icongr.am/devicon/css3-original-wordmark.svg">
